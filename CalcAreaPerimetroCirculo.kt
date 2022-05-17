@@ -21,7 +21,7 @@ fun main(args: Array<String>){
 
     var perimetro = 2 * Math.PI * raio
 
-    println("O valor da área é de: $area, e o perimetro (ou comprimento) equivale à $perimetro .")
+    println("O valor da área é de: $area, e o perimetro (ou comprimento) equivale à $perimetro.")
 
 
 }
