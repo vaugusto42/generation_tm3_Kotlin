@@ -1,0 +1,2 @@
+class Produto_Eletrônico {
+}
