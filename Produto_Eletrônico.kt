@@ -1,2 +1,2 @@
-class Produto_Eletrônico {
+class Produto_Eletronico {
 }
