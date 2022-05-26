@@ -21,7 +21,7 @@ fun main(){
         "Canidae",
         "Canis",
         "C.lupus",
-        "cachorro",
+        "cavalo",
         15
     )
 
@@ -34,7 +34,7 @@ fun main(){
         "Canidae",
         "Canis",
         "C.lupus",
-        "cachorro",
+        "preguiça",
         15
     )
 
